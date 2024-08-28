@@ -1,0 +1,40 @@
+h1{
+    
+    
+}
+
+.background{
+    background-image: url(imagem.jpg);
+    padding: 11.5%;
+}
+
+.formBorder{
+    background-color: rgb(238, 238, 238);
+    border-radius: 1%;
+    padding: 5%;
+}
+
+.carousel{
+    margin: 5%;
+}
+
+.col-sm-4{
+    padding: 5%;
+}
+
+.img-style{
+    width: 400px;
+}
+
+
+
+
+
+@media(max-width: 576px){
+    .background{
+        background-image: url(imagem576.jpg);
+        padding: 13%;
+    }
+    
+
+}
